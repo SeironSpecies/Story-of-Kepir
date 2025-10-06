@@ -15,9 +15,9 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Charadex",
-  url: "https://charadex-team.github.io/charadex-v1.0/",
-  description: `A tool for organizing small ARPGs and species.`
+  title: "Story of Kepir",
+  url: "https://SoK_ARPG",
+  description: `The Book of Eras is opened; A story is waiting to be told . . .`
 }
 
 /* ==================================================================== */
@@ -26,7 +26,7 @@ charadex.site = {
 /* ==================================================================== */
 charadex.sheet = {
 
-  id: "1GwgfLizD3HQCieGia6di-TfU4E3EipT9Jb0BDZQwNak",
+  id: "1_yuiHskCdMKuz8hYXtZzOAjEvWvGi7fv17ei8UJugL0",
 
   pages: {
     masterlist:    "masterlist",
@@ -42,12 +42,12 @@ charadex.sheet = {
 
   options: {
 
-    designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design'],
-    statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
-    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Very Rare', 'Legendary'],
-    species: ['All', 'Dog', 'Cat', 'Bunny'],
-    itemTypes: ['All', 'Currency', 'MYO Slot', 'Pet', 'Trait', 'Misc'],
-    traitTypes: ['All', 'Ears', 'Eyes', 'Body', 'Limbs', 'Tails', 'Misc', 'Mutations']
+    designTypes: ['All','MYO Design','Staff Custom','MYO Custom','Semi-Custom','Adopt'],
+    statuses: ['All','Traded','Sold','Unsold','MYO','Paid Custom','Freebie'],
+    rarity: ['All', 'Common','Uncommon','Rare','Legendary','Curse'],
+    species: ['All', 'Animalian','Dracian','Zapian','Azevian','Shaousi','Mage Drake','Morgaddon'],
+    itemTypes: ['All', 'Currency','MYO','Item','Breeding','Event','Boost'],
+    traitTypes: ['All']
 
   }
 
