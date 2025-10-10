@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Story of Kepir",
-  url: "https://SoK_ARPG",
+  url: "https://charadex.com",
   description: `The Book of Eras is opened; A story is waiting to be told . . .`
 }
 
